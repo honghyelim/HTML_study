@@ -167,5 +167,4 @@
 </body>
 </html>
 ```
-
-![HTML%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20c82d642bd87347ad828256257b34295d/Untitled.png](HTML%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20c82d642bd87347ad828256257b34295d/Untitled.png)
+![Untitled (14)](https://user-images.githubusercontent.com/67935853/105051847-84957d00-5ab2-11eb-9458-78d96dc88ffa.png)
