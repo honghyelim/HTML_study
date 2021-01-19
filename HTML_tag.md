@@ -42,8 +42,7 @@
 </table>
 </body></html>
 ```
-
-![HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled.png](HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled.png)
+![Untitled (5)](https://user-images.githubusercontent.com/67935853/105051293-f7522880-5ab1-11eb-8d29-228210f6e5da.png)
 
 - 표 병합하기
 
@@ -62,8 +61,7 @@
 </tr>
 </tfoot>
 ```
-
-![HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%201.png](HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%201.png)
+![Untitled (6)](https://user-images.githubusercontent.com/67935853/105051356-046f1780-5ab2-11eb-98a3-2be4eac7379a.png)
 
 ### 5. form
 
@@ -81,8 +79,7 @@
 </body>
 </html>
 ```
-
-![HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%202.png](HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%202.png)
+![Untitled (7)](https://user-images.githubusercontent.com/67935853/105051397-0df87f80-5ab2-11eb-85bc-f1b93c228a68.png)
 
 - 문자 입력
 
@@ -97,8 +94,7 @@
 </form>
 </body></html>
 ```
-
-![HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%203.png](HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%203.png)
+![Untitled (8)](https://user-images.githubusercontent.com/67935853/105051428-1650ba80-5ab2-11eb-92f4-c08a42ce73a1.png)
 
 - dropdown list
 
@@ -126,7 +122,7 @@
 </html>
 ```
 
-![HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%204.png](HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%204.png)
+![Untitled (9)](https://user-images.githubusercontent.com/67935853/105051446-1cdf3200-5ab2-11eb-9fc3-bef7d1e01e42.png)
 
 - radio,checkbox
 
@@ -153,8 +149,8 @@
 </body>
 </html>
 ```
+![Untitled (10)](https://user-images.githubusercontent.com/67935853/105051486-27013080-5ab2-11eb-95ff-e312f826b267.png)
 
-![HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%205.png](HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%205.png)
 
 - 버튼
 
@@ -173,8 +169,7 @@
 </head>
 </html>
 ```
-
-![HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%206.png](HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%206.png)
+![Untitled (11)](https://user-images.githubusercontent.com/67935853/105051517-2d8fa800-5ab2-11eb-9722-23798e36b41c.png)
 
 - hidden
 
@@ -253,4 +248,4 @@ UI가 없지만 서버로 어떤 값을 전송하고 싶을 때 사용
 </html>
 ```
 
-![HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%207.png](HTML%20%E1%84%8C%E1%85%AE%E1%84%8B%E1%85%AD%20%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3%20dd60ecf05a064ba4ad40ae1b03cbaeea/Untitled%207.png)
+![Untitled (12)](https://user-images.githubusercontent.com/67935853/105051563-397b6a00-5ab2-11eb-9843-9e045127cc1e.png)
